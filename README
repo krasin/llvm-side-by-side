@@ -1,0 +1,6 @@
+llvm-side-by-side
+
+A tool that evaluates performance delta for llc from two given llvm toolchains.
+It's mostly helpful to evaluate the patch to LLVM backend (llc).
+
+The output could be easily turned to a CSV sheet to allow more data analysis.
